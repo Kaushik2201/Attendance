@@ -8,3 +8,6 @@ This will ask few questions first then it will proceed .
 
 ![Screenshot 2023-02-25 225339](https://user-images.githubusercontent.com/118542939/221375064-d28f1df2-317c-4e43-983b-7625f5493f7c.png)
 Final output appears to be like this it stores you attendance into a CSV file.
+
+
+prerequisite - Apache-poi Libraries needs to be installed. 
