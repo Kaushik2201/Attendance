@@ -1,5 +1,5 @@
 # Attendance
-This is a simple code that fatches day from your Desktop and if you missed that days class it updates your remaining classes that you can miss to keep your attendance above 75% . It is helpful to many college students
+This is a simple code that fetches day from your Desktop and if you missed that days class it updates your remaining classes that you can miss to keep your attendance above 75% . It is helpful to many college students
 
 Note - This code is based on brute froce approach and it is not optimized.
 
